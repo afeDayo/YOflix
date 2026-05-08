@@ -36,7 +36,7 @@ const Home = () => {
         <Trending {...{ data, error, loading, updateUI }} />
       </div>
 
-      <div className="main-body mt-[40px] mx-auto">
+      <div className="main-body mt-[40px]">
         <h2 className="m-0 text-start text-[#ffffff] text-[20px] md:text-[32px] font-normal reco">
           Recommended For You
         </h2>
