@@ -38,7 +38,7 @@ const MovieCard = ({ movie, updateUI }) => {
         <div className="maincards relative mt-6 sm:w-[220px] sm:h-[140px] sm:mt-6 lg:w-[280px] lg:h-[174px] lg:mt-8 group">
           <img
             src={image}
-            className="w-full h-full object-cover rounded-lg"
+            className="w-full object-cover rounded-lg h-[98px] sm:h-[140px] md:h-[174px]"
             alt={title}
           />
 
