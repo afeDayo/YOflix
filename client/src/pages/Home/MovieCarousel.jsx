@@ -69,8 +69,7 @@ const MovieCarousel = ({ data, updateUI }) => {
                   </button>
                 </div>
 
-                {/* Movie info overlay */}
-                <div className="absolute bottom-5 left-6 flex flex-col justify-start items-start">
+                <div className="absolute bottom-5 left-6 flex flex-col justify-start items-start text-start">
                   <div className="flex justify-start items-center gap-2 text-white text-sm font-normal md:gap-1 md:text-xs">
                     <p className="m-0 text-[8px] sm:text-[12px] lg:text-[13px] font-normal text-white">
                       {year}
