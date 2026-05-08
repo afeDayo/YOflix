@@ -87,7 +87,7 @@ const MovieCard = ({ movie, updateUI }) => {
           </div>
           <div className="cardtits text-start">
             <p className="m-0 text-[12px] sm:text-[16px] lg:text-[18px] font-normal text-white">
-              {title}
+              {title.slice(0, 30)}
             </p>
           </div>
         </div>
