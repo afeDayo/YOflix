@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "https://techflix-backend.onrender.com",
+  baseURL: "https://yoflix-backend.onrender.com",
 });
 
 axiosInstance.interceptors.request.use(
