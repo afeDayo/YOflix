@@ -1,0 +1,441 @@
+[
+  {
+    "title": "Project Hail Mary",
+    "year": 2026,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images.alphacoders.com/139/1398679.jpg"
+  },
+
+  {
+    "title": "Avengers: Doomsday",
+    "year": 2026,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images6.alphacoders.com/137/thumb-1920-1373011.jpeg"
+  },
+
+  {
+    "title": "Madame Web",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/9273aaa5-7c6e-4dbf-b564-224247222d03/new-posters-released-for-the-spider-man-universe-film-madame-web.jpg?format=750w"
+  },
+
+  {
+    "title": "V for Vendetta",
+    "year": "2005",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://www.lab111.nl/wp-content/uploads/2023/11/V-For-Vendetta-Banner.jpg"
+  },
+
+  {
+    "title": "Avengers: Endgame",
+    "year": "2019",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://w0.peakpx.com/wallpaper/34/966/HD-wallpaper-the-avengers-avengers-endgame-avengers-avengers-endgame.jpg"
+  },
+
+  {
+    "title": "Hitman",
+    "year": "2007",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/poster/g/g/6/athah-pop-art-poster-hitman-poster-paper-athedmovpop181-medium-original-imaefff6h4tegftm.jpeg?q=90&crop=false"
+  },
+
+  {
+    "title": "Avatar: Fire and Ash",
+    "year": 2025,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images4.alphacoders.com/140/thumb-1920-1403994.jpg"
+  },
+
+  {
+    "title": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://www.joblo.com/wp-content/uploads/2026/02/super_mario_bros_galaxy_character_posters.jpg"
+  },
+
+  {
+    "title": "Computer Science",
+    "year": "2023",
+    "rated": "G",
+    "type": "series",
+    "image": "https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/MVU-BSCMPSCI-2020-Q2-Skyscraper-What-is-Computer-Science_-An-Introduction-to-a-Limitless-Industry-Header-1000x523-1.jpg"
+  },
+
+  {
+    "title": "Hobbs & Shaw",
+    "year": "2019",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://w0.peakpx.com/wallpaper/990/1009/HD-wallpaper-fast-and-furious-hobbs-shaw.jpg"
+  },
+
+  {
+    "title": "It",
+    "year": "2017",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/8481563/Screen_Shot_2017_05_08_at_11.17.56_AM.png?quality=90&strip=all&crop=18.489583333333%2C0%2C63.020833333333%2C100&w=2400"
+  },
+
+  {
+    "title": "Mission: Impossible - The Final Reckoning",
+    "year": 2025,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images.hdqwalls.com/wallpapers/bthumb/mission-impossible-the-final-reckoning-movie-2025-nq.jpg"
+  },
+
+  {
+    "title": "Data Analysis in 5mins",
+    "year": "2023",
+    "rated": "G",
+    "type": "series",
+    "image": "https://www.proserveit.com/hubfs/Data%20Analysis.png"
+  },
+
+  {
+    "title": "Joker",
+    "year": "2019",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://w0.peakpx.com/wallpaper/578/421/HD-wallpaper-joker-movie-2019-poster-joker-movie-joker-2019-movies-movies-joaquin-phoenix-poster.jpg"
+  },
+
+  {
+    "title": "Sinners",
+    "year": 2025,
+    "rated": "R",
+    "type": "movie",
+    "image": "https://images4.alphacoders.com/139/thumb-1920-1390952.jpg"
+  },
+
+  {
+    "title": "After",
+    "year": "2019",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16102015_v_h9_al.jpg"
+  },
+
+  {
+    "title": "The Killing of a Sacred Deer",
+    "year": "2017",
+    "rated": "15",
+    "type": "movie",
+    "image": "https://mondoshop.com/cdn/shop/products/Vanessa_Foley_TKOASD_Extended.jpg?v=1667673845&width=570"
+  },
+
+  {
+    "title": "Thunderbolts",
+    "year": 2025,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images5.alphacoders.com/137/thumb-1920-1378076.jpg"
+  },
+
+  {
+    "title": "Cyber Security",
+    "year": "2020",
+    "rated": "G",
+    "type": "series",
+    "image": "https://rms.koenig-solutions.com/Sync_data/CCE_Logo/2283-whatiscybersecurity.jpgL.jpg"
+  },
+
+  {
+    "title": "Apocalypto",
+    "year": "2006",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://spoilertown.com/wp-content/uploads/2025/06/apocalypto-2006.webp"
+  },
+
+  {
+    "title": "Superman",
+    "year": 2025,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images.wallpapersden.com/image/wxl-superman-4k-david-corenswet-keyart_93209.jpg"
+  },
+
+  {
+    "title": "Game of Thrones",
+    "year": "2011",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://wallpapers.com/images/featured/game-of-thrones-background-92acb30ilmkjbmu9.jpg"
+  },
+
+  {
+    "title": "From Scratch",
+    "year": "2022",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://www.geo.tv/assets/uploads/updates/2022-10-31/449596_1893818_updates.jpg"
+  },
+
+  {
+    "title": "Web Development",
+    "year": "2021",
+    "rated": "G",
+    "type": "series",
+    "image": "https://invcourses.com/store/1/web%20development%20and%20design_Invcourses.png"
+  },
+
+  {
+    "title": "The Wild Robot",
+    "year": 2024,
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://images3.alphacoders.com/136/1367325.jpeg"
+  },
+
+  {
+    "title": "24",
+    "year": "2001",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://posterspy.com/wp-content/uploads/2014/12/24-landscape.jpg"
+  },
+
+  {
+    "title": "See",
+    "year": "2019",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://i.pinimg.com/originals/7d/01/53/7d0153674e1c61af223168a5695fcb2b.jpg"
+  },
+
+  {
+    "title": "Money Heist",
+    "year": "2017",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://wallpapers.com/images/hd/money-heist-cast-poster-i0hmaz980kt99l31.jpg"
+  },
+
+  {
+    "title": "Inside Out 2",
+    "year": 2024,
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://static.wixstatic.com/media/304a5b_fd907916f49d4c3fa4fb69a46318fdad~mv2.jpeg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/304a5b_fd907916f49d4c3fa4fb69a46318fdad~mv2.jpeg"
+  },
+
+  {
+    "title": "UI/UX Concepts",
+    "year": "2017",
+    "rated": "G",
+    "type": "series",
+    "image": "https://miro.medium.com/v2/1*1Bw8tqzEYn6LzmQInimbFA.png"
+  },
+
+  {
+    "title": "Peaky Blinders",
+    "year": "2013",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://m.media-amazon.com/images/I/71mXmB41psS._AC_UF1000,1000_QL80_.jpg"
+  },
+
+  {
+    "title": "Deadpool & Wolverine",
+    "year": 2024,
+    "rated": "R",
+    "type": "movie",
+    "image": "https://images4.alphacoders.com/138/thumb-1920-1382563.jpg"
+  },
+
+  {
+    "title": "Intro to Typescript",
+    "year": "2019",
+    "rated": "G",
+    "type": "series",
+    "image": "https://brightminded.com/app/uploads/2019/11/TS-logo-960x540.png"
+  },
+
+  {
+    "title": "How to Get Away with Murder",
+    "year": "2014",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://wallpapers.com/images/hd/how-to-get-away-with-murder-thriller-7bkgm41k92j6l2ya.jpg"
+  },
+
+  {
+    "title": "Rurouni Kenshin",
+    "year": "1996",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://wallpapers.com/images/featured/samurai-x-6kqsiwwpszul1n4f.jpg"
+  },
+
+  {
+    "title": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "rated": "PG",
+    "type": "movie",
+    "image": "https://images.hdqwalls.com/wallpapers/spider-man-across-the-spider-verse-4k-zg.jpg"
+  },
+
+  {
+    "title": "The Blacklist",
+    "year": "2013",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://wallpapers.com/images/hd/the-blacklist-iconic-poster-i4mbk9rzur3mpsjp.jpg"
+  },
+
+  {
+    "title": "Prison Break",
+    "year": "2005",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://wallpapercave.com/wp/wp2274476.jpg"
+  },
+
+  {
+    "title": "CSS",
+    "year": "2025",
+    "rated": "G",
+    "type": "series",
+    "image": "https://blob.sololearn.com/assets/introduction-CSS-cover.png"
+  },
+
+  {
+    "title": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://4kwallpapers.com/images/walls/thumbs_2t/11325.jpg"
+  },
+
+  {
+    "title": "World War Z",
+    "year": "2013",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://wallpapers.com/images/hd/world-war-z-4k-movie-poster-hpqzcv92vnt8h6pb.jpg"
+  },
+
+  {
+    "title": "Justice League",
+    "year": "2017",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://zrockr.com/user-files/uploads/2017/11/maxresdefault.jpg"
+  },
+
+  {
+    "title": "From",
+    "year": "2022",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://m.media-amazon.com/images/S/pv-target-images/07c377138a10598514954af76e3994ce59719e1210669af5f545becd5b13f796.jpg"
+  },
+
+  {
+    "title": "Spartacus",
+    "year": "2010",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://rukminim2.flixcart.com/image/850/1000/jbgtnrk0/poster/k/2/g/medium-ashd-wall-poster-spartacus-blood-and-sand-original-imaek7y4p4uc43kg.jpeg?q=20&crop=false"
+  },
+
+  {
+    "title": "Intro To HTML",
+    "year": "2023",
+    "rated": "G",
+    "type": "series",
+    "image": "https://www.w3schools.com/html/images/01_html_introduction.png"
+  },
+
+  {
+    "title": "John Wick: Chapter 4",
+    "year": 2023,
+    "rated": "R",
+    "type": "movie",
+    "image": "https://w0.peakpx.com/wallpaper/449/843/HD-wallpaper-john-wick-chapter-4-poster-keanu-reeves.jpg"
+  },
+
+  {
+    "title": "Oppenheimer",
+    "year": "2023",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTk5MzcxNDItMWI2MS00Nzc2LTliMzMtMzdmMTJjNDdkODdhXkEyXkFqcGc@._V1_.jpg"
+  },
+
+  {
+    "title": "Dune: Part Two",
+    "year": "2024",
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://4kwallpapers.com/images/walls/thumbs_2t/15307.jpg"
+  },
+
+  {
+    "title": "The Bear",
+    "year": "2022",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://images7.alphacoders.com/132/1324794.jpeg"
+  },
+
+  {
+    "title": "Severance",
+    "year": "2022",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://4kwallpapers.com/images/walls/thumbs_3t/20930.jpg"
+  },
+
+  {
+    "title": "Gladiator II",
+    "year": "2024",
+    "rated": "R",
+    "type": "movie",
+    "image": "https://images8.alphacoders.com/138/1383771.jpg"
+  },
+
+  {
+    "title": "Shogun",
+    "year": "2024",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://images.wallpapersden.com/image/download/shogun-season-1_bmdnbWeUmZqaraWkpJRobWllrWdma2U.jpg"
+  },
+
+  {
+    "title": "Barbie",
+    "year": 2023,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://wallpapercave.com/wp/wp12527168.jpg"
+  },
+
+  {
+    "title": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://wallpaperaccess.com/full/22845288.jpg"
+  },
+
+  {
+    "title": "The Odyssey",
+    "year": 2026,
+    "rated": "PG-13",
+    "type": "movie",
+    "image": "https://images.hdqwalls.com/wallpapers/the-odyssey-movie-ly.jpg"
+  }
+]

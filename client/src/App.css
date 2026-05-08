@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+#root {
+  max-width: 1349px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+p,
+button,
+input {
+  font-family: "Outfit", sans-serif;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
