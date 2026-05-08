@@ -53,10 +53,10 @@ const MovieCard = ({ movie, updateUI }) => {
             onClick={() => setShowVideo(true)}
             className={
               "absolute top-10 left-13 md:top-18 py-1.5 ps-1.5 pe-4 md:left-25 flex items-center justify-center rounded-full " +
-              "bg-[#FFFFFF25] backdrop-blur-sm gap-2 " +
-              "opacity-0 pointer-events-none transition-opacity duration-200 " +
-              "group-hover:opacity-100 group-hover:pointer-events-auto " +
-              "focus:opacity-100 focus:pointer-events-auto z-20 cursor-pointer"
+              "bg-[#FFFFFF25] backdrop-blur-sm gap-2 z-20 cursor-pointer " +
+              "transition-opacity duration-200 " +
+              "opacity-100 pointer-events-auto " +
+              "md:opacity-0 md:pointer-events-none md:group-hover:opacity-100 md:group-hover:pointer-events-auto"
             }
           >
             <IoMdPlayCircle className="text-white text-[24px]" />

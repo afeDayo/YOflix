@@ -56,32 +56,46 @@ const MovieCarousel = ({ data, updateUI }) => {
                     onClick={() => setActiveVideo(movie)}
                     className={
                       "absolute top-11 left-17 md:top-22 py-1.5 ps-1.5 pe-4 md:left-45 flex items-center justify-center rounded-full " +
-                      "bg-[#FFFFFF25] backdrop-blur-sm gap-3 " +
-                      "opacity-0 pointer-events-none transition-opacity duration-200 " +
-                      "group-hover:opacity-100 group-hover:pointer-events-auto " +
-                      "focus:opacity-100 focus:pointer-events-auto z-20 cursor-pointer"
+                      "bg-[#FFFFFF25] backdrop-blur-sm gap-3 z-20 cursor-pointer " +
+                      "transition-opacity duration-200 " +
+                      "opacity-100 pointer-events-auto " +
+                      "md:opacity-0 md:pointer-events-none md:group-hover:opacity-100 md:group-hover:pointer-events-auto"
                     }
                   >
-                    <IoMdPlayCircle className="text-white text-[40px]" />
-                    <p className="text-[16px] text-white m-0">Play</p>
+                    <IoMdPlayCircle className="text-white text-[24px] md:text-[40px]" />
+                    <p className="text-[14px] md:text-[16px] text-white m-0">
+                      Play
+                    </p>
                   </button>
                 </div>
 
                 {/* Movie info overlay */}
                 <div className="absolute bottom-5 left-6 flex flex-col justify-start items-start">
                   <div className="flex justify-start items-center gap-2 text-white text-sm font-normal md:gap-1 md:text-xs">
-                    <p className="m-0">{year}</p>
-                    <p className="mb-0.5">.</p>
-                    <span className="flex justify-start items-center gap-1 md:gap-0.5">
-                      {type === "movie" ? <RiFilmFill /> : <PiTelevisionFill />}
-                      <p className="m-0">
+                    <p className="m-0 text-[8px] sm:text-[12px] lg:text-[13px] font-normal text-white">
+                      {year}
+                    </p>
+                    <p className="dott mb-1 text-[3px] font-semibold leading-none">
+                      .
+                    </p>
+                    <span className="doicon flex items-center justify-start gap-[3px] sm:gap-[5px] text-white">
+                      {type === "movie" ? (
+                        <RiFilmFill className="text-[15px]" />
+                      ) : (
+                        <PiTelevisionFill className="text-[15px]" />
+                      )}
+                      <p className="m-0 tvvvm text-[8px] sm:text-[12px] lg:text-[13px] font-normal">
                         {type === "movie" ? "Movie" : "TV Series"}
                       </p>
                     </span>
-                    <p className="mb-0.5">.</p>
-                    <p className="m-0">{rated}</p>
+                    <p className="dott mb-1 text-[3px] font-semibold leading-none">
+                      .
+                    </p>
+                    <p className="m-0 text-[8px] sm:text-[12px] lg:text-[13px] font-normal text-white">
+                      {rated}
+                    </p>
                   </div>
-                  <p className="m-0 text-white text-xl font-normal md:text-sm">
+                  <p className="m-0 text-[12px] sm:text-[16px] lg:text-[18px] font-normal text-white">
                     {title}
                   </p>
                 </div>
