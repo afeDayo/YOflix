@@ -10,7 +10,7 @@ const Recommended = ({ data, error, loading, updateUI }) => {
     return <p>{error}: Please try again later</p>;
   }
   return (
-    <div className="grid grid-cols-2 lg:grid-cols-4 sm:grid-cols-3 gap-2 w-full items-center">
+    <div className="grid grid-cols-2 lg:grid-cols-4 sm:grid-cols-3 gap-2 w-full items-start">
       {data.map((movie) => {
         return <MovieCard key={movie._id} movie={movie} updateUI={updateUI} />;
       })}

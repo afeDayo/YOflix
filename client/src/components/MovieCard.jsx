@@ -38,7 +38,7 @@ const MovieCard = ({ movie, updateUI }) => {
         <div className="maincards relative mt-6 sm:w-[220px] sm:h-[140px] sm:mt-6 lg:w-[280px] lg:h-[174px] lg:mt-8 group">
           <img
             src={image}
-            className="object-cover rounded-lg h-[98px] sm:h-[140px] md:h-[174px] w-[173px] sm:w-[220px] md:w-[280px]"
+            className="object-cover rounded-lg h-[98px] sm:h-[140px] md:h-[174px] w-[186px] sm:w-[220px] md:w-[280px]"
             alt={title}
           />
 
@@ -64,7 +64,7 @@ const MovieCard = ({ movie, updateUI }) => {
           </button>
         </div>
 
-        <div className="movie-details flex flex-col justify-start items-start py-4">
+        <div className="movie-details flex flex-col justify-start items-start md:py-4 py-2">
           <div className="cardico flex items-center justify-start gap-[3px] sm:gap-[5px] lg:gap-[7px]">
             <p className="m-0 text-[8px] sm:text-[12px] lg:text-[13px] font-normal text-white">
               {year}
