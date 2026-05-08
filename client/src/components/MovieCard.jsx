@@ -34,7 +34,7 @@ const MovieCard = ({ movie, updateUI }) => {
 
   return (
     <>
-      <div className="movie-card flex flex-col justify-start items-center">
+      <div className="movie-card flex flex-col justify-start items-start mx-auto">
         <div className="maincards relative mt-6 sm:w-[220px] sm:h-[140px] sm:mt-6 lg:w-[280px] lg:h-[174px] lg:mt-8 group">
           <img
             src={image}
