@@ -32,7 +32,7 @@ const TRAILER_MAP = {
   "The Super Mario Galaxy Movie": "GuCejewteF8",
   "Computer Science": "tpIctyqH29Q",
   "Mission: Impossible - The Final Reckoning": "NOhDyUmT9z0",
-  "Data Analysis in 5mins": "gcF31GuwSEs&t=117s",
+  "Data Analysis in 5mins": "37x5dKW-X5U&t=11s",
   Sinners: "7joulECTx_U",
   Thunderbolts: "hUUszE29jS0",
   "Cyber Security": "ey4dXseAODE",
